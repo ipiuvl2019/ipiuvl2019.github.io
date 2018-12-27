@@ -1,6 +1,13 @@
 ---
 title: Home
 ---
+# What
+This tutorial is dedicated to visual localization approaches and applications. [Content of the tutorial](https://ipiuvl2019.github.io/CourseDes.html "Courses")
+
+# Who
+[The list of speaker](https://ipiuvl2019.github.io/Speakers.html "Speakers")
+
+
 # When 
 **February 13 2019** 08:00 ~ 12:30 
 
