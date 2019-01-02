@@ -27,7 +27,7 @@ In order to estimate a 6-D pose by using only a visual sensor in a device, vario
 
 Visual localization refers to estimating the 6DOF camera pose within a given 3D scene model using images. In this talk I will first present a quick overview about different methods, and second, I will detail more recent approaches which utilise deep learning techniques for visual localization. Traditional methods use descriptor matching between the query image and the 3D scene model as basis for pose computation, while modern learning-based approaches try to directly regress the pose or intermediate results of the localization pipeline. Furthermore, I will introduce a new synthetic dataset which explicitly targets challenging situations such as lighting changes and occlusions.
 
-## 4. Collaborative localization of a swarm of vehicles <sup>(Dr. Francois Rameau, KAIST Europe)</sup>
+## 4. Collaborative localization of a swarm of vehicles <sup>(Dr. Francois Rameau, KAIST)</sup>
 
 Accurate, reliable and fast vehicle localization is desirable for a wide spectrum of applications in assisted and autonomous driving. Recently, the progress in network and communication paves the way to collaborative localization techniques.
 In this tutorial, we will present the challenges, the tools and the practical deployment of a multi-car localization approach relying exclusively on visual data and standard LTE connection.
