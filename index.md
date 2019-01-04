@@ -15,7 +15,7 @@ This tutorial is dedicated to visual localization approaches and applications. [
 Event: 
 [IPIU 2019](http://www.ipiu.or.kr/2019/index.php "IPIU")
 
-Adress:
+Address:
 `Maison GLAD Jeju, Noyeon-ro, Yeon-dong, Jeju-si, Jeju-do`
 
 # Schedule

@@ -15,14 +15,14 @@ Professor Kweon is a member of many computer vision and robotics conference prog
 <br />
 <br />
 
-<img src="./images/NoPic.png" alt="DHK" style="float:left;width:200px;  margin: 0px 20px 0px 0px;  border-radius: 150px;
+<img src="./images/A1803050230885_big.jpg" alt="DHK" style="float:left;width:200px;  margin: 0px 20px 0px 0px;  border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;">
 **Deokhwa Kim** received his B.S. degree in media communication engineering from the Hanyang University in 2011. He received his M.S degree in robotics program from KAIST in 2013 and finished his Ph.D. degree in electrical engineering from KAIST in 2018. After graduation, he joined NAVER LABS, where he is currently working in the 3D Geometry team. His research interests include 3D vision, SLAM, and Robotics.
 <br />
 <br />
 
-<img src="./images/MartinHumc.jpg" alt="MARTIN" style="float:left;width:200px; margin: 0px 20px 0px 0px;  border-radius: 150px;
+<img src="./images/Martin-Humenberger_medium.jpg" alt="MARTIN" style="float:left;width:200px; margin: 0px 20px 0px 0px;  border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;">
 **Martin Humenberger** earned his Master's degree in computer engineering at the Upper Austrian University of Applied Science Hagenberg in 2004 and finished his Ph.D. studies in electrical engineering at Vienna University of Technology in 2011 with distinction. In 2013, he spent a year at NASA's Jet Propulsion Laboratory as Caltech Postdoc. Until November 2017, he was Senior Scientist with AIT Austrian Institute of Technology. He joined the Computer Vision group of NAVER LABS Europe in December 2017. Since September 2018 he leads the 3D Vision group where he combines geometric with learned information. His research interests are monocular as well as multi-camera vision, 3D vision, camera motion estimation, visual localization and mapping, mobile robotics, and machine learning. He is the author of several publications in these fields and organizer of related events.
