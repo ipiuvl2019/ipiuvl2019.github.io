@@ -8,11 +8,12 @@ nav: true
 The term visual localization refers to a wide spectrum of problems where visual data is utilized to localize the camera's position and/or orientation in a given referential. Visual localization is crucial for various applications including but not limited to: virtual/augmented reality, 3D reconstruction, robotics and vehicular applications (e.g. assisted and autonomous driving).
 
 This tutorial covers visual localization from basics to applications including a comprehensive review of recent approaches in the field.
-This course is composed of four main parts:
-The first session reminds the fundamentals of visual localization and its applications in different domains.  This introduction is followed by a talk on traditional feature-based visual localization in a tri-dimensional map.
-Modern and highly effective deep-learning based approaches will be introduced in the third part of this talk. The creation of a synthetic dataset simulating challenging conditions (e.g. lighting variations, occlusions, etc.) for learning purpose will also be discussed.
-Finally, NAVER LABS will present a concrete example of technology for a Scalable and Semantic Indoor Mapping (SSIM). This overview incorporates the key elements of their system including robotics technologies and localization. 
-
+This course is composed of five main parts:
+The first session reminds the fundamentals of visual localization and the traditional feature-based visual localization in a tri-dimensional map.
+Modern and highly effective deep-learning based approaches will be introduced in the second part of this talk. The creation of a synthetic dataset simulating challenging conditions (e.g. lighting variations, occlusions, etc.) for learning purpose will also be discussed.
+Following these talks, NAVER LABS will present a concrete example of technology for a Scalable and Semantic Indoor Mapping (SSIM). This overview incorporates the key elements of their system including robotics technologies and localization. 
+Another, application of short-term localization for connected vehicles will also be introduced as another use case where visual localization plays a crucial role.
+Finally, this tutorial will be concluded on a deep learning based techniques for visual localization.
 
 ## 1. Basic approaches of visual feature-based localization <sup>(Dr. Deokhwa Kim, Naver Labs)</sup>
 
