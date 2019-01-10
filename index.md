@@ -25,4 +25,4 @@ Address:
 - 10:50 - 10:10 Coffee break
 - 10:10 - 11:00  Scalable and Semantic Indoor Mapping in NAVER LABS (Dr. Donghwan Lee)
 - 11:00 - 11:50 Mapping and Localization for Connected Cars (Dr. Francois Rameau)
-- 11:50 - 12:40 Learning based approaches of visual localization (Prof. In So Kweon)
+- 11:50 - 12:20 Learning based Visual Localization: Challenges and Future (Prof. In So Kweon)

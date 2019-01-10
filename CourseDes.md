@@ -33,7 +33,7 @@ Accurate, reliable and fast vehicle localization is desirable for a wide spectru
 In this tutorial, we will present the challenges, the tools and the practical deployment of a multi-car localization approach relying exclusively on visual data and standard LTE connection.
 This talk will also introduce, an original augmented-reality application taking advantage of multi-car localization: the multi-car see-through system.
 
-## 5. Learning based approaches of visual localization <sup>(Prof. In So Kweon, KAIST)</sup>
+## 5. Learning based Visual Localization: Challenges and Future <sup>(Prof. In So Kweon, KAIST)</sup>
 
 Recent advances in Deep Learning have shown breakthrough perforamnces in many computer vision problems.
 For geometric vision, however, conventional approaches show better performances in challenging conditions.
