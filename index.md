@@ -18,7 +18,7 @@ Event:
 Address:
 `Maison GLAD Jeju, Noyeon-ro, Yeon-dong, Jeju-si, Jeju-do`
 
-# Tentative program (subject to change)
+# Program
 - 08:00 - 08:10 Welcome and Introduction (Prof. In So Kweon)
 - 08:10 - 09:00 Basic approaches of visual feature-based localization (Dr. Deokhwa Kim)
 - 09:00 - 09:50 Modern approaches of visual localization (Dr. Martin Humenberger)
@@ -26,3 +26,6 @@ Address:
 - 10:10 - 11:00  Scalable and Semantic Indoor Mapping in NAVER LABS (Dr. Donghwan Lee)
 - 11:00 - 11:50 Mapping and Localization for Connected Cars (Dr. Francois Rameau)
 - 11:50 - 12:20 Learning based Visual Localization: Challenges and Future (Prof. In So Kweon)
+
+# Organizers
+This tutorial was organized by [In So Kweon](http://rcv.kaist.ac.kr/) (KAIST) and Francois Rameau (KAIST).
